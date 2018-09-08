@@ -14,9 +14,9 @@ Gapminder has collected a lot of information about how people live their lives i
 ![alt text](https://s3-eu-west-1.amazonaws.com/static.gapminder.org/GapminderMedia/wp-uploads/20161010163809/countries_health_wealth_2016_v8.png)
 
 
-- Data is provided as Excel spreadsheet files. You will want to use a spreadsheet program to export each table as a csv file;
-- You will want to look into ways of reshaping your data so that it is tidy, especially if you want to do comparisons across indicators. After joining your data together, your columns might look like: {Country, Year, Indicator 1 Value, Indicator 2 Value, … };
-- Some of the datasets might have been updated since they were collected on Gapminder. If you use these updated datasets, make sure you document this in your report.
+- Data is provided as Excel spreadsheet files. We can use a spreadsheet program to export each table as a csv file;
+- Firstly, we want to look into ways of reshaping the data so that it is tidy, especially if we want to do comparisons across indicators. After joining the data together, the columns might look like: {Country, Year, Indicator 1 Value, Indicator 2 Value, … };
+- Some of the datasets might have been updated since they were collected on Gapminder. So, when dealing with these updated datasets, we need to be more cautious.
 
 
 | Table of Contents |
