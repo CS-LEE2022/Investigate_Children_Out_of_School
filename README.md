@@ -80,3 +80,9 @@ The limitations of current study was that the structure is only 275*42 in shape,
 In addition, the parameters in the dataset is very simple, it only focus on the number of children out of school.
 
 
+<a id='License'></a>
+
+## License 
+
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/Shilin0806/Investigate_Children_Out_of_School/blob/master/LICENSE)
